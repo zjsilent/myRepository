@@ -1,4 +1,4 @@
-git status //查看状态
+﻿git status //查看状态
 git add * 
 git commit -m 'first_commit'
 git push -u origin master  //推到远端仓库
@@ -14,4 +14,12 @@ git push -u origin master  //推到远端仓库
 
 
 fork 把其他项目拷贝到仓库中
+
+git pull origin   把远程修改拉到本地
+
+
+本地修改提交到仓库
+
+
+
 
