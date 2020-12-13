@@ -1,0 +1,4 @@
+git status //查看状态 
+git add * 
+git commit -m 'first_commit'
+git push -u origin master  //推到远端仓库
