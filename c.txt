@@ -1,4 +1,9 @@
-﻿git status //查看状态
+﻿
+git config global user.name 'zjsilent'
+git config global user.email ''
+git init
+git reomote add origin ''
+git status //查看状态
 git add * 
 git commit -m 'first_commit'
 git push -u origin master  //推到远端仓库
