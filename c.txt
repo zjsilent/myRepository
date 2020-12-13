@@ -1,4 +1,8 @@
-git status //�鿴״̬ 
+git status //查看状态
 git add * 
 git commit -m 'first_commit'
-git push -u origin master  //�Ƶ�Զ�˲ֿ�
+git push -u origin master  //推到远端仓库
+
+修改后点击commit 提交 则本地发生变化
+如何提交到被pull的那里呢
+点击 pull  requests  点击 new pullrequest 按钮  会发现对比（与修改前对比）  再点击create pull request将修改推到老大那里
