@@ -18,7 +18,7 @@ fork 把其他项目拷贝到仓库中
 git pull origin   把远程修改拉到本地
 
 
-本地修改提交到仓库 首先 git add 修改的文件  ； 然后git commit -m ''  ；最后 git pull 推到仓库
+本地修改提交到仓库 首先 git add 修改的文件  ； 然后git commit -m ''  ；最后 git push  master 推到仓库
 
 
 
