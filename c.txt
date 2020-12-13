@@ -13,3 +13,5 @@ git push -u origin master  //推到远端仓库
 这时可以看到修改了。
 
 
+fork 把其他项目拷贝到仓库中
+
