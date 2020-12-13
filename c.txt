@@ -4,5 +4,12 @@ git commit -m 'first_commit'
 git push -u origin master  //推到远端仓库
 
 修改后点击commit 提交 则本地发生变化
-如何提交到被pull的那里呢
-点击 pull  requests  点击 new pullrequest 按钮  会发现对比（与修改前对比）  再点击create pull request将修改推到老大那里
+如何提交到项目组其他成员那里呢
+点击 pull  requests  点击 new pullrequest 按钮  会发现对比（与修改前对比）  再点击create pull request将修改推到项目组其他成员那里
+
+项目组其他成员看到推送 审核 在pull  requests那里可以看见 点击进去
+对修改进行评价 最后没有问题 点击merge pull request
+点击后有补充信息 没问题 点击 confirm merge
+这时可以看到修改了。
+
+
