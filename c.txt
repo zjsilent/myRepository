@@ -1,6 +1,6 @@
 ﻿
-git config global user.name 'zjsilent'
-git config global user.email ''
+git config --global user.name 'zjsilent'
+git config --global user.email ''
 git init
 git reomote add origin 仓库地址
 git status //查看状态
